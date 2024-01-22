@@ -1,2 +1,2 @@
 # BruisedJournalJunkie
-A personal journal project to digitise my learning
+A personal journal project to digitise my learning.
